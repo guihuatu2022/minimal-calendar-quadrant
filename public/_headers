@@ -1,0 +1,4 @@
+/*
+Security headers for Pages (optional)
+*/
+Cache-Control: public, max-age=0, s-maxage=1800
